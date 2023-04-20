@@ -1,4 +1,5 @@
 
+
 public class Pyramid {
 
 	public static void pyramidPattern(int n) 
