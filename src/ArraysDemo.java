@@ -22,7 +22,7 @@ public class ArraysDemo {
 //		}
 		
 		int b[]= {1,2,3,4,5}; //here we are direct passing the value in array, here memory is dynamically allocated
-		for(int j=0;j<=b.length;j++)
+		for(int j=0;j<b.length;j++)
 		{
 			System.out.println(b[j]); //retreive values present in the array
 		}
