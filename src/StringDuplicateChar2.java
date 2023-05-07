@@ -6,7 +6,6 @@ public class StringDuplicateChar2 {
 
 		//https://www.youtube.com/watch?v=N_kIhbeZxeg
 		
-		
 		String a = "nishu pp";
 		char arr[] = a.toCharArray();
 		int count;
